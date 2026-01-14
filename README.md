@@ -100,6 +100,4 @@ This project was developed as part of the graduation requirements for the Bachel
 
 **Project Title:** DermAI – Skin Cancer Detection System  
 **Supervisor:** Dr. Rami Dib’i  
-
----
-```
+14 January,2026
