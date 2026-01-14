@@ -103,5 +103,3 @@ This project was developed as part of the graduation requirements for the Bachel
 
 ---
 ```
-
-احكيلي وأنا بكمل معك مباشرة.
